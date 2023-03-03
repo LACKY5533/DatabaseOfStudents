@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\NikitaKursov\bin\Debug\NikitaKursov.exe.config
+C:\Users\MSI\source\repos\NikitaKursov\bin\Debug\NikitaKursov.exe
+C:\Users\MSI\source\repos\NikitaKursov\bin\Debug\NikitaKursov.pdb
+C:\Users\MSI\source\repos\NikitaKursov\bin\Debug\FILEWORKING.dll
+C:\Users\MSI\source\repos\NikitaKursov\bin\Debug\FILEWORKING.pdb
+C:\Users\MSI\source\repos\NikitaKursov\obj\Debug\NikitaKursov.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\NikitaKursov\obj\Debug\NikitaKursov.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\NikitaKursov\obj\Debug\NikitaKursov.csproj.CopyComplete
+C:\Users\MSI\source\repos\NikitaKursov\obj\Debug\NikitaKursov.exe
+C:\Users\MSI\source\repos\NikitaKursov\obj\Debug\NikitaKursov.pdb
